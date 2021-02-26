@@ -1,0 +1,37 @@
+body {
+  background-color: #f8f3d4;
+}
+hr{
+  border-style: none;
+  border-top-style:dashed;
+  border-color:grey;
+  border-width:4px;
+  width:50px
+}
+h3{
+  color: #08d9d6;
+}
+p{
+  font-family: cursive;
+  color: #3e4149;
+}
+td{
+  font-family: cursive;
+  color: #3e4149;
+}
+h5{
+  color:#0d7377;
+}
+li{
+  font-family: cursive;
+  color: #3e4149;
+}
+.subheading{
+  color:#0d7377;
+}
+#role:hover{
+  color: gold;
+}
+.star:hover{
+  color: red;
+}
